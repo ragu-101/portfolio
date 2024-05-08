@@ -7,7 +7,7 @@ import { DiPostgresql } from "react-icons/di";
 
 const Technology = () => {
   return (
-    <div className='border-b border-netural-800 pb-24'>
+    <div className='border-b border-neutral-900 pb-24'>
         <h2 className='my-20 text-center text-4xl'>Technology</h2>
         <div className='flex flex-wrap items-center justify-center gap-4'>
             <div className='rounded-2xl border-4 border-neutral-800 p-4'>
